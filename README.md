@@ -12,5 +12,4 @@ The areas of expertise and passion:
 - Secure Software Development
 - Software Development and Engineering Practices
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=abdolence&show_icons=true&theme=gotham)](https://github.com/abdolence)
 
